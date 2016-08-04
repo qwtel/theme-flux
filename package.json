@@ -10,10 +10,11 @@
     "lint": "eslint ./lib"
   },
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.9.0 <2.0.0"
   },
   "dependencies": {
-    "solar-calc": "^1.0.3"
+    "solar-calc": "^1.0.3",
+    "underscore-plus": "^1.6.6"
   },
   "devDependencies": {
     "eslint": "^2.13.1",
