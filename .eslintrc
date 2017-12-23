@@ -3,7 +3,12 @@
   "globals": {
     "atom": true
   },
+  "env": {
+    "browser": true,
+  },
   "rules": {
-    "import/no-unresolved": [2, { ignore: ['atom'] }]
-  }
+    "import/extensions": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/no-unresolved": ["error", { ignore: ["atom"] }],
+  },
 }
