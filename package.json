@@ -10,7 +10,9 @@
     "theme",
     "location",
     "sunset",
-    "sunrise"
+    "sunrise",
+    "day",
+    "night"
   ],
   "repository": "https://github.com/qwtel/theme-flux-solar",
   "license": "MIT",
