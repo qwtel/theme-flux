@@ -1,7 +1,7 @@
 {
   "name": "theme-flux-solar",
   "main": "./lib/theme-flux-solar",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Automatically switch themes at sunset and sunrise",
   "keywords": [
     "flux",
